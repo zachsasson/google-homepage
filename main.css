@@ -1,0 +1,80 @@
+/* Custom */
+
+body	{
+	font-family:	"Arial", Sans-Serif;
+	font-size:		13px;
+	}
+	
+li		{
+	list-style-type:	none;
+	display:			inline-block;
+	color:				gray;
+	}
+	
+.topnav li	{
+	position:			relative;
+	left:				72%;
+	text-align:			right;
+	padding:			5px;
+	}
+
+.container	{
+	margin:		140px auto 0px	auto;
+	width:		960px;
+	text-align:	center;
+	padding:	15px;
+	/*border:		1px solid black; */
+	}
+
+.container_search	{
+	margin:		-20px auto;
+	width:		960px;
+	text-align:	center;
+	padding:	15px;
+	}
+	
+#searchbox	{
+	width:	500px;
+	}
+	
+.search_nav	{
+	margin:		0px auto;
+	width:		960px;
+	text-align:	center;
+	position:	relative;
+	right:		15px;
+	padding-top:	15px;
+	}
+	
+.button	{
+	background-color:	#E6E6E6;
+	padding:			5px;
+	border-radius:		2px;
+	border:				1px solid #CFCFCF;
+	margin-left:		5px;
+	}
+
+#bottom	{
+	border-top:			1px solid #f2f2f2;
+	position:			relative;
+	height:				6%;
+	top:				85%;
+	margin-top:			715px;
+	}
+
+.left_foot	{
+	float:				left;
+	position:			relative;
+	left:				20px;
+	top:				30%;
+}
+
+.right_foot	{
+	float:				right;
+	position:			relative;
+	right:				20px;
+}
+	
+
+
+
